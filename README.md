@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Jennifer!
 
-<!--
-**jennifer-lu/jennifer-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1B software engineering student at the University of Waterloo who enjoys programming and graphic design. You can find my website at [jenniferlu.ca](http:/jenniferlu.ca) and my resume [here](https://github.com/jennifer-lu/jennifer-lu/blob/main/Resume.pdf).
 
-Here are some ideas to get you started:
+<!-- Links to icons -->
+[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/gmail.png" title="Gmail" alt="Gmail" width="25" height="25">][1]&nbsp;&nbsp;&nbsp;[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/linkedin.png" title="LinkedIn" alt="LinkedIn" width="25" height="25">][2]&nbsp;&nbsp;&nbsp;[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/firefox.png" title="Firefox Add-ons" alt="Firefox Add-ons" width="25" height="25">][3]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Links to social media profiles -->
+[1]: mailto:jenniferlugm@gmail.com
+[2]: https://www.linkedin.com/in/jennifer-lu-4334b7173/
+[3]: https://addons.mozilla.org/en-CA/firefox/user/15662468/
+
+### Languages and Technologies
+
+[Java]()&nbsp;&nbsp;&nbsp;[C]()&nbsp;&nbsp;&nbsp;[HTML]()&nbsp;&nbsp;&nbsp;[CSS]()&nbsp;&nbsp;&nbsp;[JavaScript]()&nbsp;&nbsp;&nbsp;[Python]()&nbsp;&nbsp;&nbsp;[Git]()&nbsp;&nbsp;&nbsp;[Photoshop]()&nbsp;&nbsp;&nbsp;[Procreate]()
+
+### Coming Soon
+
+[Personal Website](https://github.com/jennifer-lu/Personal-Website)
+
+### Stats
+
+[![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jennifer-lu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
