@@ -20,4 +20,4 @@ I'm a 1B software engineering student at the University of Waterloo who enjoys p
 
 ### Stats
 
-[![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jennifer-lu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jennifer-lu&title_color=f5f5f5&text_color=f5f5f5&icon_color=f5f5f5&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
