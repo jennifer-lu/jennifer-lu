@@ -12,11 +12,9 @@ I'm a 1B software engineering student at the University of Waterloo who enjoys p
 
 ### Languages and Technologies
 
-[Java]()&nbsp;&nbsp;&nbsp;[C]()&nbsp;&nbsp;&nbsp;[HTML]()&nbsp;&nbsp;&nbsp;[CSS]()&nbsp;&nbsp;&nbsp;[JavaScript]()&nbsp;&nbsp;&nbsp;[Python]()&nbsp;&nbsp;&nbsp;[Git]()&nbsp;&nbsp;&nbsp;[Photoshop]()&nbsp;&nbsp;&nbsp;[Procreate]()
+Java&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;jQuery&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;Adobe Photoshop&nbsp;&nbsp;&nbsp;Procreate
 
-### Coming Soon
-
-[Personal Website](https://github.com/jennifer-lu/Personal-Website)
+<!-- ### Coming Soon -->
 
 ### Stats
 
