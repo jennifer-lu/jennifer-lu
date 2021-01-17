@@ -1,6 +1,6 @@
 # Hi, I'm Jennifer!
 
-I'm a 1B software engineering student at the University of Waterloo who enjoys programming and graphic design. You can find my website at [jenniferlu.ca](http:/jenniferlu.ca) and my resume [here](https://github.com/jennifer-lu/jennifer-lu/blob/main/Resume.pdf).
+I'm a 1B software engineering student at the University of Waterloo who enjoys programming and graphic design. You can find my website at [jenniferlu.ca](http:/jenniferlu.ca) and my resume [here](https://drive.google.com/file/d/12QzRMRVxEhgObnGcPzevnA0duR_Ci7dH/view?usp=sharing).
 
 <!-- Links to icons -->
 [<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/gmail.png" title="Gmail" alt="Gmail" width="25" height="25">][1]&nbsp;&nbsp;&nbsp;[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/linkedin.png" title="LinkedIn" alt="LinkedIn" width="25" height="25">][2]&nbsp;&nbsp;&nbsp;[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/firefox.png" title="Firefox Add-ons" alt="Firefox Add-ons" width="25" height="25">][3]
