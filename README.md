@@ -1,13 +1,13 @@
 # Hi, I'm Jennifer!
 
-I'm a 1B software engineering student at the University of Waterloo who enjoys programming and graphic design. You can find my website at [jenniferlu.ca](http:/jenniferlu.ca) and my resume [here](https://drive.google.com/file/d/1Uu9w0yRSCXaaE1-H8ekNZ_H29gyLNKTM/view?usp=sharing).
+I'm a 2A software engineering student at the University of Waterloo who enjoys programming and graphic design. You can find my website at [jennifer-lu.ca](http:/jennifer-lu.ca) and my resume [here](https://drive.google.com/file/d/1Uu9w0yRSCXaaE1-H8ekNZ_H29gyLNKTM/view?usp=sharing).
 
 <!-- Links to icons -->
 [<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/gmail.png" title="Gmail" alt="Gmail" width="25" height="25">][1]&nbsp;&nbsp;&nbsp;[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/linkedin.png" title="LinkedIn" alt="LinkedIn" width="25" height="25">][2]&nbsp;&nbsp;&nbsp;[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/firefox.png" title="Firefox Add-ons" alt="Firefox Add-ons" width="25" height="25">][3]
 
 <!-- Links to social media profiles -->
 [1]: mailto:jenniferlugm@gmail.com
-[2]: https://www.linkedin.com/in/jennifer-lu-4334b7173/
+[2]: https://www.linkedin.com/in/-jennifer/
 [3]: https://addons.mozilla.org/en-CA/firefox/user/15662468/
 
 ### Languages and Technologies
