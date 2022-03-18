@@ -1,21 +1,27 @@
+<img alt="typing" align="left" src="https://user-images.githubusercontent.com/49915445/159021810-6c8cde43-84f3-47a9-9eea-b4545aa682a5.gif" height="300" />
+
 # Hi, I'm Jennifer!
 
-I'm a 2A software engineering student at the University of Waterloo who enjoys programming and graphic design. You can find my website at [jennifer-lu.ca](http:/jennifer-lu.ca) and my resume [here](https://drive.google.com/file/d/1NBUjgKfokq86oI6E6V_iHDXel4qRYI3R/view?usp=sharing).
+*I enjoy programming, visual arts, and going on long walks.*
 
-<!-- Links to icons -->
-[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/gmail.png" title="Gmail" alt="Gmail" width="25" height="25">][1]&nbsp;&nbsp;&nbsp;[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/linkedin.png" title="LinkedIn" alt="LinkedIn" width="25" height="25">][2]&nbsp;&nbsp;&nbsp;[<img src="https://github.com/jennifer-lu/jennifer-lu/blob/main/firefox.png" title="Firefox Add-ons" alt="Firefox Add-ons" width="25" height="25">][3]
+🎓&nbsp;&nbsp;&nbsp;Software Engineering at University of Waterloo  
+🖥️&nbsp;&nbsp;&nbsp;Full Stack Intern at SAP  
+⌨️&nbsp;&nbsp;&nbsp;Frontend at Hack the North  
+🖱️&nbsp;&nbsp;&nbsp;Developer at UW Blueprint  
 
-<!-- Links to social media profiles -->
-[1]: mailto:jenniferlugm@gmail.com
-[2]: https://www.linkedin.com/in/-jennifer/
-[3]: https://addons.mozilla.org/en-CA/firefox/user/15662468/
+[Email](mailto:jenniferlugm@gmail.com)&nbsp;&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/-jennifer/)&nbsp;&nbsp;&nbsp;
+[Resume](https://drive.google.com/file/d/1NBUjgKfokq86oI6E6V_iHDXel4qRYI3R/view?usp=sharing)&nbsp;&nbsp;&nbsp;
 
-### Languages and Technologies
+<br /><br />
 
-JavaScript&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;PHP&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;Node&nbsp;&nbsp;&nbsp;Express&nbsp;&nbsp;&nbsp;jQuery&nbsp;&nbsp;&nbsp;Symfony&nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;Processing&nbsp;&nbsp;&nbsp;Git
-
-<!-- ### Coming Soon -->
+```
+Languages:     JavaScript/TypeScript, C/C++, Python, SQL, HTML, CSS
+Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, jQuery, axios, Docker, Kubernetes, Chakra UI, Git, Figma
+```
 
 ### Stats
 
-[![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jennifer-lu&title_color=f5f5f5&text_color=f5f5f5&icon_color=f5f5f5&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jennifer-lu&count_private=true&title_color=ada79b&text_color=ada79b&bg_color=00000000&border_color=ada79b&hide_title=true" />
+
+<!--START_SECTION:activity-->
