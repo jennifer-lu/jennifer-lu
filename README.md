@@ -20,6 +20,8 @@ Languages:     JavaScript/TypeScript, C/C++, Python, SQL, HTML, CSS
 Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, jQuery, axios, Docker, Kubernetes, Chakra UI, Git, Figma
 ```
 
-<br />
+### I'm working on
 
-<img alt="GitHub statistics for jennifer-lu" align="left" src="https://github-readme-stats.vercel.app/api?username=jennifer-lu&count_private=true&text_color=ada79b&bg_color=00000000&border_color=ada79b&title_color=ada79b&hide_title=true&show_icons=true&icon_color=ada79b" />
+<img align=right alt="GitHub statistics for jennifer-lu" src="https://github-readme-stats.vercel.app/api?username=jennifer-lu&count_private=true&text_color=8b8472&bg_color=e9e3d9&hide_border=true&title_color=8b8472&hide_title=true&show_icons=true&icon_color=8b8472" />
+
+<!--START_SECTION:activity-->
