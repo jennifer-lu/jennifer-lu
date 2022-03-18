@@ -2,12 +2,12 @@
 
 # Hi, I'm Jennifer!
 
-<img alt="I enjoy programming, visual arts, and going on long walks." src="https://user-images.githubusercontent.com/49915445/159070426-1376b768-0480-4acb-ab42-4b4a0da54a23.gif" height="16" />
+<img alt="I enjoy programming, visual arts, and going on long walks." src="https://user-images.githubusercontent.com/49915445/159070426-1376b768-0480-4acb-ab42-4b4a0da54a23.gif" height="15" />
 
 🎓&nbsp;&nbsp;&nbsp;Software Engineering at University of Waterloo  
 🖥️&nbsp;&nbsp;&nbsp;Full Stack Intern at SAP  
 ⌨️&nbsp;&nbsp;&nbsp;Frontend at Hack the North  
-🖱️&nbsp;&nbsp;&nbsp;Developer at UW Blueprint  
+💻&nbsp;&nbsp;&nbsp;Developer at UW Blueprint  
 
 [Email](mailto:jenniferlugm@gmail.com)&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/-jennifer/)&nbsp;&nbsp;&nbsp;
