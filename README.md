@@ -25,3 +25,9 @@ Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, jQuery, axios, Docker,
 <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jennifer-lu&count_private=true&title_color=ada79b&text_color=ada79b&bg_color=00000000&border_color=ada79b&hide_title=true" />
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#97](https://github.com/uwblueprint/headsupguys/pull/97) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+2. 🗣 Commented on [#96](https://github.com/uwblueprint/headsupguys/issues/96) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+3. 💪 Opened PR [#97](https://github.com/uwblueprint/headsupguys/pull/97) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+4. 🎉 Merged PR [#92](https://github.com/uwblueprint/headsupguys/pull/92) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+5. 🗣 Commented on [#92](https://github.com/uwblueprint/headsupguys/issues/92) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+<!--END_SECTION:activity-->
