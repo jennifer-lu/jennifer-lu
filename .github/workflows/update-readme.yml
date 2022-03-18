@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jennifer-lu/github-activity-readme@master
+      - uses: jennifer-lu/jennifer-lu@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
