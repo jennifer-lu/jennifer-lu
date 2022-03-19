@@ -16,13 +16,13 @@
 <br /><br />
 
 ```
-Languages:     JavaScript/TypeScript, C/C++, Python, SQL, HTML, CSS
+Languages:     JavaScript/TypeScript, Python, C/C++, SQL, HTML, CSS
 Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, jQuery, Docker, Chakra UI, Git, Figma
 ```
 
 ### I'm working on
 
-<img align=right alt="GitHub statistics for jennifer-lu" src="https://github-readme-stats.vercel.app/api?username=jennifer-lu&count_private=true&text_color=8b8472&bg_color=e9e3d9&hide_border=true&title_color=8b8472&hide_title=true&show_icons=true&icon_color=8b8472" />
+<img align=right alt="GitHub statistics for jennifer-lu" src="https://github-readme-stats.vercel.app/api?username=jennifer-lu&count_private=true&hide_title=true&hide_border=true&show_icons=true&bg_color=e9e3d9&text_color=817a69&title_color=817a69&icon_color=817a69" />
 
 <!--START_SECTION:activity-->
 1. Merged PR [#97](https://github.com/uwblueprint/headsupguys/pull/97) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
