@@ -11,7 +11,7 @@
 
 [Email](mailto:jenniferlugm@gmail.com)&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/-jennifer/)&nbsp;&nbsp;&nbsp;
-[Resume](https://drive.google.com/file/d/1eAbnXQRwN86CTGTspx-C1FVQE6BeR6pF/view?usp=sharing)&nbsp;&nbsp;&nbsp;
+[Resume](https://drive.google.com/file/d/1A7oh6rMxuEHC9ZxJwCmbTTNm3_gHMrE6/view?usp=sharing)&nbsp;&nbsp;&nbsp;
 
 <br /><br />
 
