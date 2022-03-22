@@ -25,9 +25,9 @@ Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, jQuery, Docker, Chakra
 <img align=right alt="GitHub statistics for jennifer-lu" src="https://github-readme-stats.vercel.app/api?username=jennifer-lu&count_private=true&hide_title=true&hide_border=true&show_icons=true&bg_color=e9e3d9&text_color=817a69&title_color=817a69&icon_color=817a69" />
 
 <!--START_SECTION:activity-->
-1. Opened PR [#389](https://github.com/uwblueprint/planet-read/pull/389) in [uwblueprint/planet-read](https://github.com/uwblueprint/planet-read)
-2. Merged PR [#97](https://github.com/uwblueprint/headsupguys/pull/97) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
-3. Commented on [#96](https://github.com/uwblueprint/headsupguys/issues/96) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
-4. Opened PR [#97](https://github.com/uwblueprint/headsupguys/pull/97) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
-5. Merged PR [#92](https://github.com/uwblueprint/headsupguys/pull/92) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+1. Merged PR [#389](https://github.com/uwblueprint/planet-read/pull/389) in [uwblueprint/planet-read](https://github.com/uwblueprint/planet-read)
+2. Opened PR [#389](https://github.com/uwblueprint/planet-read/pull/389) in [uwblueprint/planet-read](https://github.com/uwblueprint/planet-read)
+3. Merged PR [#97](https://github.com/uwblueprint/headsupguys/pull/97) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+4. Commented on [#96](https://github.com/uwblueprint/headsupguys/issues/96) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+5. Opened PR [#97](https://github.com/uwblueprint/headsupguys/pull/97) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
 <!--END_SECTION:activity-->
