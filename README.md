@@ -20,7 +20,7 @@ Languages:     JavaScript/TypeScript, Python, C/C++, SQL, HTML, CSS
 Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, jQuery, Docker, Chakra UI, Git, Figma
 ```
 
-### I'm working on
+### I'm working on...
 
 <img align=right alt="GitHub statistics for jennifer-lu" src="https://github-readme-stats.vercel.app/api?username=jennifer-lu&count_private=true&hide_title=true&hide_border=true&show_icons=true&bg_color=e9e3d9&text_color=817a69&title_color=817a69&icon_color=817a69" />
 
