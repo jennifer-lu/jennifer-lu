@@ -15,8 +15,8 @@
 <br /><br /><br /><br />
 
 ```
-Languages:     JavaScript/TypeScript, Python, C/C++, SQL, HTML, CSS
-Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, jQuery, Docker, Chakra UI, Git, Figma
+Languages:     JavaScript, TypeScript, C++, Python, SQL, HTML, CSS
+Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, jQuery, Docker, Git, Figma
 ```
 
 ### I'm working on...
