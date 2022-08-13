@@ -5,11 +5,12 @@
 <img alt="I enjoy programming, visual arts, and going on long walks." src="https://user-images.githubusercontent.com/49915445/159123311-2eba7ea0-734c-486e-8dd2-bd563fe2268d.gif" height="15" />
 
 🎓&nbsp;&nbsp;&nbsp;Software Engineering at University of Waterloo  
-🖥️&nbsp;&nbsp;&nbsp;Frontend at Hack the North  
+🖥️&nbsp;&nbsp;&nbsp;Incoming SWE Intern at Gem  
+⌨️&nbsp;&nbsp;&nbsp;Frontend at Hack the North  
 
 [Email](mailto:jenniferlugm@gmail.com)&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/-jennifer/)&nbsp;&nbsp;&nbsp;
-[Resume](https://drive.google.com/file/d/1A7oh6rMxuEHC9ZxJwCmbTTNm3_gHMrE6/view?usp=sharing)&nbsp;&nbsp;&nbsp;
+[Resume](https://drive.google.com/file/d/1xOwyX70EjSO-KeWHduDpnY4CN2pk1h5A/view?usp=sharing)&nbsp;&nbsp;&nbsp;
 
 <br /><br /><br /><br />
 
