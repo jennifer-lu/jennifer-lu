@@ -6,7 +6,7 @@
 
 🎓&nbsp;&nbsp;&nbsp;Software Engineering at University of Waterloo  
 🖥️&nbsp;&nbsp;&nbsp;Incoming SWE Intern at Gem  
-⌨️&nbsp;&nbsp;&nbsp;Frontend at Hack the North  
+⌨️&nbsp;&nbsp;&nbsp;Frontend Developer at Hack the North  
 
 [Email](mailto:jenniferlugm@gmail.com)&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/-jennifer/)&nbsp;&nbsp;&nbsp;
