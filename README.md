@@ -10,7 +10,7 @@
 
 [Email](mailto:jenniferlugm@gmail.com)&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/-jennifer/)&nbsp;&nbsp;&nbsp;
-[Resume](https://drive.google.com/file/d/1xOwyX70EjSO-KeWHduDpnY4CN2pk1h5A/view?usp=sharing)&nbsp;&nbsp;&nbsp;
+[Resume](https://drive.google.com/file/d/1l65_ZBPLEwe_3t7iUaPOBx5tyXwLtTzx/view?usp=sharing)&nbsp;&nbsp;&nbsp;
 
 <br /><br /><br /><br />
 
