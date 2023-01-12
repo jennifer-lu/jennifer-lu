@@ -24,17 +24,5 @@ Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, AWS, Heroku, Figma, Gi
 <img align=right alt="GitHub statistics for jennifer-lu" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jennifer-lu&count_private=true&hide_title=true&hide_border=true&show_icons=true&bg_color=e9e3d9&text_color=817a69&title_color=817a69&icon_color=817a69" />
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jennifer-lu/jennifer-lu](https://github.com/jennifer-lu/jennifer-lu)
-2. ⬆️ Pushed 1 commit(s) to [jennifer-lu/jennifer-lu](https://github.com/jennifer-lu/jennifer-lu)
-3. ⬆️ Pushed 1 commit(s) to [jennifer-lu/jennifer-lu](https://github.com/jennifer-lu/jennifer-lu)
-4. ⬆️ Pushed 1 commit(s) to [jennifer-lu/jennifer-lu](https://github.com/jennifer-lu/jennifer-lu)
-5. 
-<!--RECENT_ACTIVITY:end-->
-1. Merged PR [#101](https://github.com/uwblueprint/headsupguys/pull/101) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
-2. Opened PR [#101](https://github.com/uwblueprint/headsupguys/pull/101) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
-3. Merged PR [#100](https://github.com/uwblueprint/headsupguys/pull/100) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
-4. Commented on [#100](https://github.com/uwblueprint/headsupguys/issues/100) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
-5. Opened PR [#100](https://github.com/uwblueprint/headsupguys/pull/100) in [uwblueprint/headsupguys](https://github.com/uwblueprint/headsupguys)
+
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 12th, 2023, 2:17:05 PM
-<!--RECENT_ACTIVITY:last_update_end-->
