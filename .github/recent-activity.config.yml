@@ -10,6 +10,7 @@ settings:
     text: ""
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
 messages:
+  push: "Pushed {AMOUNT} commit(s) to {REPO}"
   comments: "Commented on {ID} in {REPO}"
   issue_opened: "Opened issue {ID} in {REPO}"
   issue_closed: "Closed issue {ID} in {REPO}"
