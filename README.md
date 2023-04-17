@@ -26,9 +26,6 @@ Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, AWS, Heroku, Figma, Gi
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 1 commit(s) to [jennifer-lu/treehacks](https://github.com/jennifer-lu/treehacks)
 2. Pushed 1 commit(s) to [jennifer-lu/treehacks](https://github.com/jennifer-lu/treehacks)
-3. Opened issue [#245](https://github.com/Readme-Workflows/recent-activity/issues/245) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. Pushed 1 commit(s) to [jennifer-lu/jennifer-lu](https://github.com/jennifer-lu/jennifer-lu)
-5. Pushed 1 commit(s) to [jennifer-lu/jennifer-lu](https://github.com/jennifer-lu/jennifer-lu)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
