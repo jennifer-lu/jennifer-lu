@@ -24,8 +24,6 @@ Technologies:  React, Node.js, Next.js, GraphQL, MongoDB, AWS, Heroku, Figma, Gi
 <img align=right alt="GitHub statistics for jennifer-lu" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jennifer-lu&count_private=true&hide_title=true&hide_border=true&show_icons=true&bg_color=e9e3d9&text_color=817a69&title_color=817a69&icon_color=817a69" />
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 1 commit(s) to [jennifer-lu/treehacks](https://github.com/jennifer-lu/treehacks)
-2. Pushed 1 commit(s) to [jennifer-lu/treehacks](https://github.com/jennifer-lu/treehacks)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
