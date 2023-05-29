@@ -6,7 +6,5 @@
 
 🎓&nbsp;&nbsp;&nbsp;Software Engineering at University of Waterloo  
 🖥️&nbsp;&nbsp;&nbsp;Frontend Lead at Hack the North  
-⏮️&nbsp;&nbsp;&nbsp;Previously a developer at SAP, Gem, and UW Blueprint  
 
-[Email](mailto:jenniferlugm@gmail.com)&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/-jennifer/)&nbsp;&nbsp;&nbsp;
