@@ -10,7 +10,4 @@
 
 <img alt="I enjoy programming, visual arts, and going on long walks." src="https://user-images.githubusercontent.com/49915445/159123311-2eba7ea0-734c-486e-8dd2-bd563fe2268d.gif" height="15" />
 
-🎓&nbsp;&nbsp;&nbsp;Software Engineering at University of Waterloo  
-🖥️&nbsp;&nbsp;&nbsp;Frontend Advisor at Hack the North  
-
-[LinkedIn](https://www.linkedin.com/in/-jennifer/)&nbsp;&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/-jennifer/)
